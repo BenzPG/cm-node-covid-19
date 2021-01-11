@@ -1,0 +1,32 @@
+{
+  "name": "cm-node-covid-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenzPG/cm-node-covid-19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenzPG/cm-node-covid-19/issues"
+  },
+  "homepage": "https://github.com/BenzPG/cm-node-covid-19#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "get-json": "^1.0.1"
+  },
+  "engines": {
+    "node": "12.13.1",
+    "npm": "6.14.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "keywords": []
+}
